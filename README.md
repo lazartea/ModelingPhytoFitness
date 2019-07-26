@@ -3,6 +3,7 @@
 Source code for movement strategies and data formatting from a poster presented at [ACM-BCB 2019](https://doi.org/10.1145/3307339.3343236).
 
 **Modeling Phytoplankton Movement and Fitness in Lakes**
+
 Amy R. Lazarte, Samuel B. Fey, and Anna Ritz
 
 ### Datasets
