@@ -25,7 +25,7 @@ def main(filename, singleYear, hourly):
     
     return dataDict, fitnessDict, sunsetMatrix
 
-data, fitness, sunset = main() #use these to call movement functions
+data, fitness, sunset = main('sensorsparklinglakewatertemphourly.txt', 2005, True) #use these to call movement functions
 #ex: 
 #start, end = dateString(2000, hourly) #where 2000 is year of interest
 #circadianMovement(data, fitness, sunset, start, end, 'slow')
